@@ -1,0 +1,132 @@
+{
+    "projects": [{
+            "name": "Shopping Cart",
+            "img": "../img/cart.gif",
+            "link": ["", "https://shopping-cart-using-react.netlify.app/"],
+            "desc": "This app is PWA-based, a complete full-fleged shopping cart that can be added to any of the eCommerce website.",
+            "tags":[
+                "react",
+                "html/css",
+                "js"
+            ]
+        },
+        {
+            "name": "Physiotherapy Clinic",
+            "img": "../img/physio.gif",
+            "link": ["", "https://muzamils-physio.netlify.app/"],
+            "desc": "A webiste for physiotherapy clinic, designed with booking facility on the go.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        }],
+    "certificates": [
+        {
+            "img": "../img/python-training.png",
+            "ket": "1. Complete Python Training (with certification).",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 1499/-",
+            "price1": "Rs. 2499/-"
+        },
+        {
+            "img": "../img/c_c++.jpg",
+            "ket": "2. Programming in C/C++ (with Certification)",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 1499/-",
+            "price1": "Rs. 1999/-"
+        },
+        {
+            "img": "../img/interview.jpg",
+            "ket": "3. Company Interview Training Program",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 799/-",
+            "price1": "Rs. 999/-"
+        },
+        {
+            "img": "../img/java-logo-png.png",
+            "ket": "4. The Complete JAVA Masterclass (with certification)",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 1499/-",
+            "price1": "Rs. 2499/-"
+        },
+        {
+            "img": "../img/UI-UX.jpg",
+            "ket": "5. UI/UX Designing (with certification)",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 1499/-",
+            "price1": "Rs. 2499/-"
+        },
+        {
+            "img": "../img/gate.jpg",
+            "ket": "6. GATE CSE (Computer Science and Engineering)",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. NA",
+            "price1": "Rs. NA"
+        },
+        {
+            "img": "../img/html_css_javascript.jpg",
+            "ket": "7. HTML/CSS/JS - Complete Web Development Training and Certification",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ],
+            "price": "Rs. 1999/-",
+            "price1": "Rs. 2799/-"
+        }],
+    "team": [
+        {
+            "name": "Er Faisal Majeed",
+            "img": "../img/faisal.png",
+            "link": ["", "https://faisaldevelops.github.io/portfolio/"],
+            "desc": "Co-Founder of the Codepher. Manager of the Coding section and Software services.",
+            "tags":[
+                "CO-FOUNDER"
+            ]
+        },
+        {
+            "name": "Sahil Aziz",
+            "img": "../img/sahil.png",
+            "link": ["", "https://www.linkedin.com/in/sahil-aziz-01b515233"],
+            "desc": "Head of the Non-IT placements.",
+            "tags":[
+                "CHAIRMAN"
+            ]
+        },
+        {
+            "name": "Amina Ayoub",
+            "img": "../img/amina.png",
+            "link": ["", ""],
+            "desc": "Senior Manager of Placement Wing.",
+            "tags":[
+                "Senior Manager"
+            ]
+        }
+    ]
+
+}
